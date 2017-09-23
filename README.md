@@ -21,10 +21,9 @@ paper1:
    - Gregor von Laszewski
    - Fugang Wang
    hid:
-   - 000
-   - 001
-   title: This is my paper about xyz
-   abstract: This paper showcases this and that and the other
+   - 314
+   title: Big Data analytics in Media industry
+   abstract: To understand the changes in Media industry based on the recent huge consumption of data worldwide
    url: https://github.com/bigdata-i523/sample-hid000/paper1/paper1.pdf
    type: latex
    
