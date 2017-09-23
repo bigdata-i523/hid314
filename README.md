@@ -18,8 +18,7 @@ owner:
 ```
 paper1:
    author: 
-   - Gregor von Laszewski
-   - Fugang Wang
+   - Sarang Fadnavis
    hid:
    - 314
    title: Big Data analytics in Media industry
