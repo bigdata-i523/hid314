@@ -22,11 +22,13 @@ paper1:
    hid:
    - 314
    title: Big Data analytics in Media industry
-   abstract: To understand the changes in Media industry based on the recent huge consumption of data worldwide
+   abstract: >
+      To understand the changes in Media industry based on the recent
+      huge consumption of data worldwide 
    url: https://github.com/bigdata-i523/sample-hid000/paper1/paper1.pdf
    type: latex
    status: in progress
-   chapter: Buisiness
+   chapter: Media
 ```
    
 # Paper 2
