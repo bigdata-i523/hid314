@@ -1,0 +1,27 @@
+---
+owner:
+    hid: 314
+    name: Fadnavis, Sarang
+    url: https://github.com/bigdata-i523/hid314
+paper1:
+    abstract: "To understand the changes in Media industry based on the recent huge\
+        \ consumption of data worldwide \n"
+    author:
+        - Sarang Fadnavis
+    chapter: Media
+    hid:
+        - 314
+    status: in progress
+    title: Big Data analytics in Media industry
+    type: latex
+    url: https://github.com/bigdata-i523/sample-hid000/paper1/paper1.pdf
+paper2:
+    abstract: This paper showcases tis and that and the other
+    author:
+        - Gregor von Laszewski
+    hid:
+        - 0
+    status: in progress
+    title: Benchmarking a BigData Docker deployment
+    type: latex
+    url: https://github.com/bigdata-i523/sample-pid000/project/report.pdf
